@@ -1,0 +1,1 @@
+A quiz application is created using Python. Based on the user's prefered topic questions and answer options are generated. Users should select at least one answer per question and submit the quiz. After submission, score and correct answers are displayed.
